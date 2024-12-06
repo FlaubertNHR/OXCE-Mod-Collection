@@ -1,0 +1,35 @@
+﻿crafts:
+  - delete: STR_INTERCEPTOR 
+  - type: STR_INTERCEPTOR
+    #requires:
+    #  - STR_MISSILE
+    costBuy: 100 #1000000
+    costRent: 100 #100000
+    costSell: 100 #500000
+    soldiers: 0
+    vehicles: 0
+    pilots: 0
+    maxItems: 0
+    sprite: 3  # CHANGE
+    fuelMax: 9999
+    damageMax: 5000 
+    speedMax: 7500
+    accel: 12
+    weapons: 0
+    refuelRate: 9999
+    radarRange: 0
+    radarChance: 0
+    sightRange: 0
+    transferTime: 1 # 96
+    score: 0
+    battlescapeTerrainData:
+      name: INTERCEPTOR
+      mapDataSets:
+        - BLANKS
+        - INTRCEPT
+      mapBlocks:
+        - name: INTERCEPTOR
+          width: 10
+          length: 10
+    listOrder: 7460 # 7993
+

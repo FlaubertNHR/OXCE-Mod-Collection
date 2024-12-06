@@ -1,0 +1,7 @@
+version: 1.0
+name: "MissileMOD"
+id: MissileMod
+author: FlaubertNHR
+description: "Missile mod"
+master: xcom1
+
