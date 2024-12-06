@@ -1,0 +1,34 @@
+
+fixedUserOptions:
+  battleUFOExtenderAccuracy: true
+  canSellLiveAliens: true
+  battleExplosionHeight: 2
+  alienBleeding: true
+  globeSeasons: true
+  showAllCommendations: false
+  battleInstantGrenade: false
+  allowPsiStrengthImprovement: false
+  bleedingIndicator: true
+  autoSell: true
+  psiStrengthEval: true
+  storageLimitsEnforced: true
+  oxcePlayBriefingMusicDuringEquipment: true
+  oxceEnableOffCentreShooting: true
+recommendedUserOptions:
+  strafe: true
+  forceFire: true
+  noAlienPanicMessages: true
+  oxceHighlightNewTopics: true
+  weaponSelfDestruction: false
+  oxceUfoLandingAlert: false
+  retainCorpses: true
+  battleAutoEnd: true
+  oxceAutoSell: true
+  anytimePsiTraining: true
+  craftLaunchAlways: true
+  canTransferCraftsWhileAirborne: true
+  showMoreStatsInInventoryView: true
+  battleHairBleach: true
+  soldierDiaries: true
+  allowPsionicCapture: true
+   

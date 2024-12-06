@@ -1,0 +1,3 @@
+fixedUserOptions:
+  canSellLiveAliens: true
+  retainCorpses: true

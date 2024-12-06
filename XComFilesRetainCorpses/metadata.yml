@@ -1,0 +1,7 @@
+name: "XCom-Files Retain Corpses"
+version: "1.0"
+author: "Flaubert"
+description: "Allow retain corpses of interrogated enemies"
+id: x-com-retain-corpses
+reservedSpace: 1
+master: x-com-files
