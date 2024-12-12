@@ -1,0 +1,8 @@
+﻿extraSprites:
+  - type: INTICON.PCK
+    files:
+      899: Resources/Vessels/Inticon/Missile_Dogfight.png
+      888: Resources/Vessels/Inticon/Missile_minimised.png
+  - type: BASEBITS.PCK
+    files:
+      921: Resources/Vessels/Basebits/Missile_base.png
