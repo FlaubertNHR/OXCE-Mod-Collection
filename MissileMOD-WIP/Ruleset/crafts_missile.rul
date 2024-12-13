@@ -15,6 +15,7 @@
     damageMax: 1
     speedMax: 50000
     accel: 12
+    avoidBonus: 50
     weapons: 0
     missilePower: 50
     refuelRate: 9999
