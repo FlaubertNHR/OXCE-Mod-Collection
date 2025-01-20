@@ -1,0 +1,17 @@
+research:
+  - name: STR_UPGRADED_HANGAR
+    cost: 250
+    points: 15
+    dependencies: 
+      - STR_ADVANCED_FLIGHT_TRAINING
+      - STR_UAC_CONTACT
+      - STR_ALIEN_ALLOYS   
+  - name: STR_LARGE_HANGAR
+    cost: 500
+    points: 30
+    dependencies:
+      - STR_UPGRADED_HANGAR
+      - STR_UAC_OUTSOURCING  
+      - STR_UFO_POWER_SOURCE
+      - STR_UFO_NAVIGATION
+      - STR_ELERIUM_115

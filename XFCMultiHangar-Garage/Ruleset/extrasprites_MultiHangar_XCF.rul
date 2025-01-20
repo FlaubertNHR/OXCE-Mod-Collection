@@ -1,0 +1,25 @@
+extraSprites:
+  - type: BASEBITS.PCK   
+    files:      
+      862: Resources/Cars/Van_base.png		
+      865: Resources/Cars/Car_base.png	
+      904: Resources/Cars/Opscar_base.png		  
+      890: Resources/Garage.png
+      900: Resources/Cars/LuxuryCar_base.png	  
+      903: Resources/Cars/Hummer_base.png
+  - type: BASEBITS.PCK
+    width: 64
+    height: 64
+    subX: 32
+    subY: 32
+    files:
+      534: Resources/LargeHangar/UpgradedHangar.png
+      538: Resources/Shape/20x20.png
+  - type: BASEBITS.PCK
+    width: 96
+    height: 96
+    subX: 32
+    subY: 32
+    files:
+      542: Resources/LargeHangar/30x30.png
+      551: Resources/Shape/30x30.png      

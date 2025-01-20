@@ -1,0 +1,23 @@
+ufopaedia:
+  - id: STR_GARAGE
+    type_id: 6
+    section: STR_BASE_FACILITIES
+    text: STR_GARAGE_UFOPEDIA  
+  - id: STR_UPGRADED_HANGAR
+    requires:
+      - STR_ADVANCED_FLIGHT_TRAINING
+      - STR_UAC_CONTACT
+      - STR_ALIEN_ALLOYS         
+    type_id: 6
+    section: STR_BASE_FACILITIES
+    text: STR_UPGRADED_HANGAR_UFOPEDIA
+  - id: STR_LARGE_HANGAR
+    requires:
+      - STR_UPGRADED_HANGAR
+      - STR_UAC_OUTSOURCING  
+      - STR_UFO_POWER_SOURCE
+      - STR_UFO_NAVIGATION
+    type_id: 6
+    section: STR_BASE_FACILITIES
+    text: STR_LARGE_HANGAR_UFOPEDIA
+

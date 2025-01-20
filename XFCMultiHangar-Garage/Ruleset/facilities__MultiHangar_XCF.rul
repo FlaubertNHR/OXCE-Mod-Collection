@@ -1,0 +1,86 @@
+facilities:
+  - type: STR_GARAGE
+    spriteShape: 1
+    spriteFacility: 890
+    size: 1
+    buildCost: 100000
+    buildTime: 12
+    monthlyCost: 15000
+    hangarType: 0 
+    crafts: 1
+    craftSlots:
+      - [-2, 0, 0]
+    mapName: XCFG_00
+    workshops: 2
+  - type: STR_UPGRADED_HANGAR
+    requires:
+      - STR_UPGRADED_HANGAR    
+    spriteShape: 534
+    spriteFacility: 538
+    size: 2
+    buildCost: 200000
+    buildTime: 38
+    monthlyCost: 37500
+    crafts: 2
+    craftSlots:
+      - [12, -12, 0]
+      - [-12, 12, 0]      
+    mapName: XBUH_01
+    workshops: 5
+    storage: 20
+    aliens: 8
+    prisonType: 4
+    listOrder: 7261
+    canBeBuiltOver: true
+    buildOverFacilities:
+      - STR_GARAGE
+      - STR_HANGAR
+    buildCostItems:
+      STR_ALIEN_ALLOYS:
+        build: 20
+        refund: 0 
+  - type: STR_LARGE_HANGAR
+    requires:
+      - STR_LARGE_HANGAR
+    spriteShape: 542
+    spriteFacility: 542
+    size: 3
+    buildCost: 1000000
+    buildTime: 50
+    monthlyCost: 100000
+    crafts: 4
+    craftSlots:
+      - [-17, -17, 0]
+      - [17, -17, 0]
+      - [-17, 17, 0]
+      - [17, 17, 0]    
+    mapName: XBLH_01
+    workshops: 20
+    storage: 125
+    aliens: 20
+    prisonType: 4
+    personnel: 8
+    manaRecoveryPerDay: 1
+    listOrder: 7262
+    canBeBuiltOver: true
+    buildOverFacilities:
+      - STR_GARAGE    
+      - STR_HANGAR
+      - STR_UPGRADED_HANGAR
+    buildCostItems:
+      STR_ELERIUM_115:
+        build: 25
+        refund: 0    
+      STR_ALIEN_ALLOYS:
+        build: 50
+        refund: 0
+      STR_UFO_POWER_SOURCE:
+        build: 8
+        refund: 0
+      STR_UFO_NAVIGATION:
+        build: 4
+        refund: 0
+  - type: STR_GENERAL_STORES_2
+    canBeBuiltOver: true
+    buildOverFacilities:
+      - STR_GENERAL_STORES

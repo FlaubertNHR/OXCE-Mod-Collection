@@ -1,0 +1,11 @@
+﻿extraStrings:
+  - type: en-US
+    strings:
+      STR_GARAGE: "Garage"
+      STR_UPGRADED_HANGAR: "Upgraded Hangar"
+      STR_LARGE_HANGAR: "Large Hangar"
+      STR_UPGRADED_HANGAR_UFOPEDIA: "In response to our need for more advanced aircraft housing, UAC has agreed to upgrade our version of the Hangar building, using Alien alloys. Now it can host up to two aircrafts.{NEWLINE}{NEWLINE}Properties:                Resources for the construction:{NEWLINE}{NEWLINE}> Craft Capacity: 2        > Alien Alloys: 20{NEWLINE}> Workshop: 10{NEWLINE}> Storage: 50"
+      STR_LARGE_HANGAR_UFOPEDIA: "Our technological status allow us to ask UAC for a even larger version of the Hangar building, able to holding up to 4 aircrafts.{NEWLINE}{NEWLINE}Properties:                Resources for the construction:{NEWLINE}{NEWLINE}> Craft Capacity: 4        > Alien Alloys: 50{NEWLINE}> Workshop: 40             > UFO Powersource: 8{NEWLINE}> Storage: 200             > UFO Navigation: 4{NEWLINE}> Living: 12             > Elerium-115: 30"
+      STR_GARAGE_UFOPEDIA: "Garage facility, to store small cars {NEWLINE}{NEWLINE}Properties: {NEWLINE}{NEWLINE}> Hangar Type: 0 (Cars) {NEWLINE}> Craft Capacity: 1       {NEWLINE}> Workshop: 5{NEWLINE}> Storage: 25"
+      
+
