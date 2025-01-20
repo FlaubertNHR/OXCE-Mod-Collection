@@ -1,8 +1,0 @@
-version: 1.0
-name: "[XCF] MultiHangar-Garage"
-id: MultiHangarGarage
-author: FlaubertNHR #With parts from OxEBJC's Facility Expansion Pack
-description: "Expanded Hangars Expansion Mod Pack for X-Com Files. OXCE Hangar needed."
-#requiredExtendedEngine: Hangars Reworked
-master: x-com-files
-

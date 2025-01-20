@@ -1,0 +1,8 @@
+version: 1.0
+name: "[XCF] New Facilities"
+id: XFCNewFacilities
+author: FlaubertNHR #With parts from OxEBJC's Facility Expansion Pack
+description: "Add new facilities to XCom base: garage for cars; two bigger hangars (2x2 with 2 crafts, and 3x3 with 4 crafts); and modifies Large Storage so it can be built o top 1x1 Storage"
+#requiredExtendedEngine: Hangars Reworked
+master: x-com-files
+
